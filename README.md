@@ -2,7 +2,7 @@
 
 ## Description
 
-A Dockerfile for creating images container Arduino sketches, and uploading them into your Arduino Boards. 
+A Dockerfile for creating images container Arduino sketches, and uploading them into your Arduino Boards. [Instructions on how to deploy a docker container to your Arduino board can be found here](http://reprage.com/post/how-to-deploy-docker-containers-to-an-arduino/).
 
 ## License
 
